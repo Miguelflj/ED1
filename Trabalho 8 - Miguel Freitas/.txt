@@ -1,0 +1,4 @@
+(nome: Gabi , idade: 8) (nome: Ana , idade: 21) 
+(nome: Pedro , idade: 9) (nome: Paulo , idade: 18) 
+(nome: Carlinhos , idade: 11) 
+(nome: Henrique , idade: 15) 

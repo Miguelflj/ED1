@@ -1,0 +1,8 @@
+Centroíde do arquvivo input5-(1):
+[ saca (1x); casa (1x)]
+
+
+
+Centroíde total
+
+[ saca (1x); casa (1x)]

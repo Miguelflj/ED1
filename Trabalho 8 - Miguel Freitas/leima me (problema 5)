@@ -1,0 +1,2 @@
+	Devido ao uso da estratégia de definir o fim de uma palavra como qualquer simbolo que nao seja do alfabeto ocorre um bug no algoritmo, ele faz a leitura do segundo simbolo (definindo-o como palavra e entrando na contagem).
+Para a entrada é recomendavel o não uso de acentuações, espaços, vírgulas, etc..

@@ -1,0 +1,22 @@
+	Arvore Binaria
+	
+	raiz,nó(pai, filhos),folha,altura,nivel;
+
+	Exemplo de inserção:
+
+	10,2,4,6,12,1,3,11,15,5
+
+
+	Estrutura de um nó:
+
+		[<-*esq\valor\dir*-> ]
+
+	tipoNó {
+
+		int valor
+		tipoNo *esq
+		tipoNo *dir
+	};
+
+
+	

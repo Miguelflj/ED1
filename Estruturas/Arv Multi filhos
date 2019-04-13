@@ -1,0 +1,13 @@
+	ARVORE COM MULTIPLOS FILHOS
+
+
+	-> ESTRUTURA:
+
+		int valor[2t-1]
+		tipoNó *filhos[2t]
+		int n.valor
+
+	raiz
+	    [][][]
+
+	[][][]  [][][]
